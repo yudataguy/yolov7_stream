@@ -2,3 +2,4 @@ venv/
 yolov7.pt
 traced_model.pt
 runs/
+.vscode/
